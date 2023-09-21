@@ -1,0 +1,57 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Lopez",
+      "email": "juan@gmail.com",
+      "password": "lopez",
+      "confirmar": "lopez234"
+    },
+    {
+      "nombre": "jeanpool lopez",
+      "email": "jeanpoollopez@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "nombre": "jose lopez",
+      "email": "jose@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "nombre": "Daniel avila",
+      "email": "Avila@gmail.com",
+      "password": "123456789",
+      "id": 4
+    }
+  ],
+  "Medicos": [
+    {
+      "id": 1,
+      "nombre": "Andres Lozano",
+      "email": "Andres@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "Citas": [
+    {
+      "fecha": "2023-09-21",
+      "hora": "15:00",
+      "nombre": "Andres Lozano",
+      "id": 2
+    }
+  ],
+  "CitasAgendadas": [
+    {}
+  ],
+  "CitasEditar": [
+    {
+      "fecha": "2023-09-20",
+      "hora": "10:20",
+      "nombre": "12:00",
+      "id": 1
+    }
+  ]
+}
